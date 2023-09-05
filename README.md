@@ -19,7 +19,7 @@ I'm a passionate full-stack developer with 2.5 years of experience, currently ho
 - LLMs
 
 ## 📣 Let's Connect!
-- **LinkedIn**: [Your LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/iamdhritiman01/))
-- **Email**: iamdhritiman01@gmail.com
-- **Portfolio**: [Your Portfolio]([your-portfolio-url-if-any](https://dhritimandas.com/)https://dhritimandas.com/)
+- **LinkedIn**: [Dhritiman Das](https://www.linkedin.com/in/iamdhritiman01/)
+- **Email**: [Mail me](mailTo:iamdhritiman01@gmail.com)
+- **Portfolio**: [Dhritiman Das](https://dhritimandas.com/)
 
