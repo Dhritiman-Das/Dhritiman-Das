@@ -20,6 +20,6 @@ I'm a passionate full-stack developer with 2.5 years of experience, currently ho
 
 ## 📣 Let's Connect!
 - **LinkedIn**: [Dhritiman Das](https://www.linkedin.com/in/iamdhritiman01/)
-- **Email**: [Mail me](mailTo:iamdhritiman01@gmail.com)
+- **Email**: [iamdhritiman01@gmail.com](mailTo:iamdhritiman01@gmail.com)
 - **Portfolio**: [Dhritiman Das](https://dhritimandas.com/)
 
