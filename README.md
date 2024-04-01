@@ -13,9 +13,6 @@ I'm a passionate full-stack developer with 2.5 years of experience, currently ho
 - [Sports Hub](https://github.com/SportsAppv2/WebApp)
 - [Hushlee](https://github.com/Dhritiman-Das/hushlee)
 
-## 🌱 Currently Learning:
-- LLMs
-
 ## 📣 Let's Connect!
 - **LinkedIn**: [Dhritiman Das](https://www.linkedin.com/in/iamdhritiman01/)
 - **Email**: [iamdhritiman01@gmail.com](mailTo:iamdhritiman01@gmail.com)
