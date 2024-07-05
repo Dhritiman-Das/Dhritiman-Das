@@ -10,8 +10,8 @@ I'm a passionate full-stack developer with 2.5 years of experience, currently ho
 - **Others**: Version Control, Figma, Asana
 
 ## 📈 Some of my recent projects:
-- [Sports Hub](https://github.com/SportsAppv2/WebApp)
-- [Hushlee](https://github.com/Dhritiman-Das/hushlee)
+- [EasyDB](https://easydb.app/)
+- [Jetlink](https://jetlink.ai/)
 
 ## 📣 Let's Connect!
 - **LinkedIn**: [Dhritiman Das](https://www.linkedin.com/in/iamdhritiman01/)
